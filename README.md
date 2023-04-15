@@ -2,6 +2,8 @@
 
 ## Background
 
+![gpt_genuis_demo](https://user-images.githubusercontent.com/81745551/232246592-b637085b-8e97-4eb6-ba59-49e69d89e4eb.png)
+
 ### Inspiration
 The inspiration behind developing GPT Genius came from a desire to utilize the powerful capabilities of GPT for the benefit of students. GPT has the ability to perform many natural language processing tasks, such as summarizing text, correcting grammar, and translation. With the help of this GUI desktop app, students can fully take advantage of GPT.
 
