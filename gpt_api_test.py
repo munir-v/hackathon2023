@@ -22,11 +22,8 @@ def ask_gpt(question):
     return answer
 
 
-# question = str(os.environ["KMVAR_GPTprompt"])
-# answer = ask_gpt(question)
-# print(answer)
-
 if __name__ == "__main__":
-    question = input("Please enter your question: ")
+    # question = input()
+    question = str(os.environ["KMVAR_GPTprompt"])
     answer = ask_gpt(question)
-    print(f"Answer: {answer}")
+    print(answer)
