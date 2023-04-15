@@ -16,7 +16,7 @@ To build this project, I used Python as the primary programming language. I used
 1. You will need an [API key](https://platform.openai.com/account/api-keys) from OpenAI to use this app.
 
 
-2. To use GPT Genius, first clone this repo onto your computer. You will also need to install [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and download the Keyboard Maestro [macro that runs the GUI](). Once Keyboard Maestro is installed, open the macro file. It should appear automatically in Keyboard Maestro. 
+2. To use GPT Genius, first clone this repo onto your computer. You will also need to install [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and download the Keyboard Maestro [macro that runs the GUI](https://drive.proton.me/urls/F2FN8Q0FZM#D6AwVODPq87d). Once Keyboard Maestro is installed, open the macro file. It should appear automatically in Keyboard Maestro. 
 
 
 2. The macro may appear to be greyed out in the list of macros. If that is the case, simply right-click on it and select "enable macro". 
